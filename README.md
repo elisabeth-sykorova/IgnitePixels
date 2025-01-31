@@ -1,4 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/5qTj1Xtl)
-# Semester 2 Programming Project 2024
-
-This is the starter code for Bernadette Power's programming project
+This is a final year project for Introduction to Object Oriented Programming in first year of Computing in Interactive Digitalm Art and Design at SETU Carlow.
